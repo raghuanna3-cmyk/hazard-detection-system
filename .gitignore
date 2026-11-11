@@ -1,0 +1,14 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Model weights (if > 100MB; GitHub blocks files larger than 100MB without Git LFS)
+# hazard_detection_model.keras
+
+# IDE settings
+.vscode/
+.idea/
